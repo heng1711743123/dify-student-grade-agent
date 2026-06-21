@@ -19,3 +19,6 @@ credentials.json
 *.log
 *.tmp
 ~$*
+
+# Other local projects (not part of this repo)
+01-电商助手Agent/
