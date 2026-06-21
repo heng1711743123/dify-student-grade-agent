@@ -32,7 +32,6 @@ A hands-on tutorial for building a **NLP2SQL (Text2SQL) ChatFlow** on [Dify](htt
 
 ```
 ├── README.md
-├── LICENSE
 ├── docs/demo/                          # Live demo screenshots
 └── 02-学生成绩查询Agent/
     ├── 01-Mysql数据库操作.md              # MySQL setup guide
@@ -95,10 +94,6 @@ Follow the step-by-step guide with screenshots:
 - LLM API key configured in Dify
 - Plugins: `hjlarry/database`, ECharts, Time
 
-### License
-
-MIT — see [LICENSE](LICENSE).
-
 ---
 
 ## 中文
@@ -129,7 +124,6 @@ MIT — see [LICENSE](LICENSE).
 
 ```
 ├── README.md
-├── LICENSE
 ├── docs/demo/                          # 实际运行效果截图
 └── 02-学生成绩查询Agent/
     ├── 01-Mysql数据库操作.md              # MySQL 建库建表教程
@@ -191,7 +185,3 @@ mysql+pymysql://root:your_password@192.168.65.254:3306/dify_test
 - Dify（Docker 或本地安装）
 - Dify 中已配置 LLM API Key
 - 插件：`hjlarry/database`、ECharts、时间工具
-
-### 开源协议
-
-MIT — 详见 [LICENSE](LICENSE)。
